@@ -2,7 +2,7 @@
 ## 📚 학습 교재 및 자료
 * 데이터 과학을 위한 R 시리즈 5 "R 데이터마이닝", 나종화, 자유아카데미(2017)
 * 데이터 과학을 위한 R 시리즈 8 "R 다중비교와 다중검정", 나종화, 자유아카데미(2023)
-* Spatio-Temporal Statistics with R, By Christopher K. Wikle, Andrew Zammit-Mangion, and Noel Cressie, Published by Chapman & Hall/CRC(2019)
+* [Spatio-Temporal Statistics with R](https://spacetimewithr.org/), By Christopher K. Wikle, Andrew Zammit-Mangion, and Noel Cressie, Published by Chapman & Hall/CRC(2019)
 * [공간통계학 블로그](https://brisbane-geocommunity.netlify.app/)
 
 ## 📅 학습 기간
