@@ -3,6 +3,7 @@
 * 데이터 과학을 위한 R 시리즈 5 "R 데이터마이닝", 나종화, 자유아카데미(2017)
 * 데이터 과학을 위한 R 시리즈 6 "R 응용 시계열분석", 나종화, 자유아카데미(2020)
 * 데이터 과학을 위한 R 시리즈 8 "R 다중비교와 다중검정", 나종화, 자유아카데미(2023)
+* Geospatial Health Data Modeling and Visualization with R-INLA and Shiny, By Paula Moraga, Published by CRC Press
 * Spatio-Temporal Statistics with R, By Christopher K. Wikle, Andrew Zammit-Mangion, and Noel Cressie, Published by Chapman & Hall/CRC(2019)
 * 공간통계학 블로그 [Geospatial Community](https://brisbane-geocommunity.netlify.app/)
 
